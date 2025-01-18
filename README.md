@@ -19,7 +19,7 @@ Este proyecto es un sistema de gestión de biblioteca virtual desarrollado en Py
 
 ## Cómo usarlo
 
-### Opción 1: Ejecutar Localmente
+### Opción 1: Ejecutar localmente
 
 1. Clona este repositorio:
 
@@ -48,7 +48,7 @@ Haz clic en el siguiente enlace para ejecutar el proyecto directamente en Google
 
 [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SOsZwAiIZhTIvcKijrnvOh2tTXpAQFkM?usp=sharing)
 
-## Principios de POO en el Código
+## Principios de POO en el código
 
 ### 1. Encapsulación
 Los atributos sensibles están protegidos mediante prefijos de doble guion bajo (`__`) y solo se acceden a través de métodos definidos en las clases. Ejemplo:
@@ -90,7 +90,7 @@ class Notificacion(ABC):
         pass
 ```
 
-## Ejemplo de Interacción
+## Ejemplo de interacción
 
 - **Registrar un libro:**
   ```bash
