@@ -134,24 +134,6 @@ virtual-library-system/
 
 The system was successfully developed, implementing OOP pillars and facilitating efficient management of a virtual library. This project also improved practical understanding of advanced OOP concepts and motivated research on software design best practices.
 
-## 🔮 Future Enhancements
-
-Potential improvements:
-- 🌐 Web interface development
-- 💾 Database integration
-- 🔐 User authentication system
-- 📱 Mobile application
-- 📈 Analytics and reporting features
-- 🔍 Advanced search functionality
-
-## 🎓 Learning Objectives
-
-This project demonstrates:
-- **Object-Oriented Design:** Implementing the four pillars of OOP
-- **Software Architecture:** Creating modular, maintainable code
-- **Python Programming:** Advanced Python concepts and best practices
-- **System Design:** Building scalable software solutions
-
 ## 👥 Credits
 
 - **Karen Cardiel Olea**
