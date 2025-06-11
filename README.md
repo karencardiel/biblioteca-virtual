@@ -139,7 +139,7 @@ The system was successfully developed, implementing OOP pillars and facilitating
 - **Karen Cardiel Olea**
 - **Elisabet Arelly Sulú Vela**
 - Professor: **Ernesto Manuel Ihuit Dzib**
-- Universidad Politécnica de Yucatán (Polytechnic University of Yucatan)
+- Universidad Politécnica de Yucatán
 - Subject: Programming Paradigms
 
 ## 📅 Submission Date
